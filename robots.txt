@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://inescherif.github.io/sitemap.xml
